@@ -1,0 +1,12 @@
+body {
+    background-color: #ffe6ff;
+    font-family: 'Courier';
+}
+
+a {
+    color: #4814cc
+}
+
+#link:hover {
+    color: #15efe4;
+}
